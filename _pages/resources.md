@@ -13,8 +13,10 @@ redirect_from:
 
 Here's an ongoing list of resources that I have found useful on a variety of topics:
 
-#Sotware Defined Radio
+Sotware Defined Radio
+======
 * [PySDR](https://pysdr.org/)
 
-#Embedded Systems
+Embedded Systems
+======
 * [Embedded Artistry](https://embeddedartistry.com/beginners/)
