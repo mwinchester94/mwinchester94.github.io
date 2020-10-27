@@ -17,6 +17,10 @@ Sotware Defined Radio
 ======
 * [PySDR](https://pysdr.org/)
 
+Machine Learning
+======
+* [Deep Learning](https://www.deeplearningbook.org/)
+
 Embedded Systems
 ======
 * [Embedded Artistry](https://embeddedartistry.com/beginners/)
